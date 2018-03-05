@@ -1,0 +1,7 @@
+C:\Code\2018\02.03.2018\Homework\Cars\Cars\bin\Debug\Cars.exe.config
+C:\Code\2018\02.03.2018\Homework\Cars\Cars\bin\Debug\Cars.exe
+C:\Code\2018\02.03.2018\Homework\Cars\Cars\bin\Debug\Cars.pdb
+C:\Code\2018\02.03.2018\Homework\Cars\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+C:\Code\2018\02.03.2018\Homework\Cars\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Code\2018\02.03.2018\Homework\Cars\Cars\obj\Debug\Cars.exe
+C:\Code\2018\02.03.2018\Homework\Cars\Cars\obj\Debug\Cars.pdb
